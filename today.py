@@ -6,5 +6,4 @@ keys = {'a':100, 'b':200}
 print(f"My number is {keys['a']}")
 
 
-keys = {'a': 100, 'b': 200}
-print(f"My number is {keys['a']}")
+
