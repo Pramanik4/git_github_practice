@@ -1,0 +1,1 @@
+print("Consistency can beat anything")
